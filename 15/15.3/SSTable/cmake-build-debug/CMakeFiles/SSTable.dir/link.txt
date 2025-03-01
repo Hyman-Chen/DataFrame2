@@ -1,0 +1,3 @@
+"E:\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SSTable.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\SSTable.dir/objects.a @CMakeFiles\SSTable.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\SSTable.dir/objects.a -Wl,--no-whole-archive -o SSTable.exe -Wl,--out-implib,libSSTable.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SSTable.dir\linklibs.rsp
