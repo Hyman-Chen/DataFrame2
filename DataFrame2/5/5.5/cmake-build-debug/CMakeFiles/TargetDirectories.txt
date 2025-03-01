@@ -1,0 +1,3 @@
+E:/code/5/5.5、1-gets-puts/cmake-build-debug/CMakeFiles/5_51_gets_puts.dir
+E:/code/5/5.5、1-gets-puts/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/code/5/5.5、1-gets-puts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
